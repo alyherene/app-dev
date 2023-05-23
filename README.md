@@ -10,6 +10,15 @@ My first repository
 
 ---
 
+> Action . Adventure . Sci-fi
+
+---
+
+**Director** Gary Ross
+**Writers** Gary Ross . Suzanne Collins . Billy Ray
+
+---
+
 Character List:
 *Katniss Everdeen
 *Peeta Mellark
@@ -20,5 +29,6 @@ Character List:
 *Caesar Flickerman
 
 ---
+
 
 
