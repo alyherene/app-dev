@@ -5,6 +5,8 @@ My first repository
 ## 2012 . PG-13 . 2h 22m
 *Katniss Everdeen voluntarily takes her younger sister's place in the Hunger Games: a televised competition in which two teenagers from each of the twelve Districts of Panem are chosen at random to fight to the death*
 
+> Could you survive on your own in the wild, with every one out to make sure you don't live to see the morning?
+
 ---
 
 Character List:
