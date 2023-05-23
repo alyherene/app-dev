@@ -15,18 +15,21 @@ My first repository
 ---
 
 **Director** Gary Ross
+
+---
+
 **Writers** Gary Ross . Suzanne Collins . Billy Ray
 
 ---
 
-Character List:
-*Katniss Everdeen
-*Peeta Mellark
-*Gale Hawthorne
-*Primrose Everdeen
-*Haymitch Abernathy
-*Effie Trinket
-*Caesar Flickerman
+**Character List:**
+* Katniss Everdeen
+* Peeta Mellark
+* Gale Hawthorne
+* Primrose Everdeen
+* Haymitch Abernathy
+* Effie Trinket
+* Caesar Flickerman
 
 ---
 
